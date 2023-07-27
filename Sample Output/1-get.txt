@@ -1,0 +1,7956 @@
+Sat Dec  9 13:55:33 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw2   46.224.3.139
+ 2 ms,  3 ms,  2 ms,  3 ms,  42 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  6 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw4   46.224.3.141
+ 2 ms,  8 ms,  2 ms,  2 ms,  4 ms,  15 ms,  3 ms,  2 ms,  2 ms,  3 ms, trycount= 21
+
+
+
+hw5   46.224.3.142
+ 3 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  8 ms,  2 ms,  3 ms,  3 ms, trycount= 26
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms, trycount= 33
+
+
+
+hw7   46.224.3.146
+ 2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 30 ms,  29 ms,  20 ms,  25 ms,  25 ms,  24 ms,  18 ms,  12 ms,  10 ms,  8 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 18 ms,  28 ms,  18 ms,  13 ms,  14 ms,  15 ms,  13 ms,  18 ms,  17 ms,  29 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw14   46.224.3.238
+ 3 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 24
+
+
+
+hw15   46.224.3.239
+ 3 ms,  3 ms,  12 ms,  2 ms,  4 ms,  2 ms,  11 ms,  2 ms,  14 ms,  2 ms, trycount= 30
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  3 ms,  3 ms,  3 ms,  1 ms,  2 ms, trycount= 25
+
+
+
+hw17   46.224.3.130
+ 2 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  9 ms,  3 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  2 ms,  4 ms,  4 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw19   46.224.3.132
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  3 ms,  2 ms, trycount= 28
+
+
+
+hw20   46.224.3.133
+ 2 ms,  6 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms, trycount= 29
+
+
+
+as1   185.147.177.2
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 14 ms,  10 ms,  7 ms,  9 ms,  240 ms,  6 ms,  5 ms,  8 ms,  239 ms,  12 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 5 ms,  3 ms,  10 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  4 ms,  6 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 243 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  13 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  17 ms,  12 ms,  3 ms,  2 ms,  2 ms,  2 ms,  7 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 4 ms,  3 ms,  9 ms,  5 ms,  3 ms,  6 ms,  5 ms,  7 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  204 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 13 ms,  9 ms,  7 ms,  11 ms,  21 ms,  12 ms,  9 ms,  9 ms,  6 ms,  7 ms,  6 ms, trycount= 11
+
+
+
+as11   185.147.177.12
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  6 ms,  14 ms,  1 ms, trycount= 10
+
+
+
+Sat Dec  9 14:52:22 2017
+hw1   46.224.3.138
+ 4 ms,  4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  6 ms,  2 ms,  3 ms,  2 ms, trycount= 28
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 31
+
+
+
+hw3   46.224.3.140
+ 3 ms,  5 ms,  4 ms,  3 ms,  2 ms,  3 ms,  4 ms,  4 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw4   46.224.3.141
+ 4 ms,  3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw5   46.224.3.142
+ 5 ms,  6 ms,  7 ms,  4 ms,  4 ms,  2 ms,  5 ms,  4 ms,  3 ms,  5 ms, trycount= 41
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  3 ms, trycount= 22
+
+
+
+hw7   46.224.3.146
+ 4 ms,  4 ms,  3 ms,  4 ms,  10 ms,  7 ms,  5 ms,  4 ms,  3 ms,  3 ms, trycount= 25
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 14 ms,  24 ms,  33 ms,  32 ms,  27 ms,  20 ms,  16 ms,  21 ms,  18 ms,  25 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 19 ms,  30 ms,  18 ms,  26 ms,  8 ms,  8 ms,  10 ms,  11 ms,  21 ms,  23 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  3 ms,  3 ms,  3 ms,  2 ms, trycount= 27
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  213 ms,  2 ms,  3 ms,  2 ms,  4 ms,  3 ms,  6 ms,  7 ms, trycount= 34
+
+
+
+hw15   46.224.3.239
+ 5 ms,  14 ms,  4 ms,  4 ms,  6 ms,  4 ms,  3 ms,  3 ms,  2 ms,  5 ms, trycount= 25
+
+
+
+hw16   46.224.3.241
+ 2 ms,  3 ms,  3 ms,  3 ms,  3 ms,  3 ms,  3 ms,  2 ms,  5 ms,  2 ms, trycount= 24
+
+
+
+hw17   46.224.3.130
+ 4 ms,  3 ms,  5 ms,  3 ms,  3 ms,  9 ms,  5 ms,  6 ms,  3 ms,  2 ms, trycount= 29
+
+
+
+hw18   46.224.3.131
+ 4 ms,  5 ms,  7 ms,  3 ms,  4 ms,  3 ms,  4 ms,  3 ms,  6 ms,  4 ms, trycount= 25
+
+
+
+hw19   46.224.3.132
+ 5 ms,  5 ms,  5 ms,  4 ms,  5 ms,  5 ms,  9 ms,  5 ms,  3 ms,  4 ms, trycount= 20
+
+
+
+hw20   46.224.3.133
+ 7 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 38
+
+
+
+as1   185.147.177.2
+ 1 ms,  2 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 6 ms,  7 ms,  9 ms,  5 ms,  6 ms,  7 ms,  5 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  4 ms,  2 ms,  3 ms,  2 ms,  3 ms,  3 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 8 ms,  8 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  3 ms,  2 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 4 ms,  2 ms,  3 ms,  4 ms,  2 ms,  4 ms,  3 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  2 ms,  2 ms,  12 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sat Dec  9 15:49:51 2017
+hw1   46.224.3.138
+ 2 ms,  5 ms,  2 ms,  2 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms, trycount= 32
+
+
+
+hw2   46.224.3.139
+ 5 ms,  2 ms,  2 ms,  2 ms,  15 ms,  2 ms,  3 ms,  2 ms,  2 ms,  5 ms, trycount= 32
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  4 ms, trycount= 31
+
+
+
+hw4   46.224.3.141
+ 2 ms,  4 ms,  3 ms,  2 ms,  5 ms,  21 ms,  3 ms,  2 ms,  13 ms,  2 ms, trycount= 24
+
+
+
+hw5   46.224.3.142
+ 3 ms,  2 ms,  2 ms,  12 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  5 ms, trycount= 29
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  3 ms,  3 ms,  4 ms,  4 ms,  2 ms, trycount= 42
+
+
+
+hw7   46.224.3.146
+ 3 ms,  3 ms,  4 ms,  5 ms,  2 ms,  4 ms,  4 ms,  3 ms,  2 ms,  6 ms, trycount= 30
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 56 ms,  42 ms,  29 ms,  41 ms,  40 ms,  49 ms,  48 ms,  47 ms,  298 ms,  49 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 43 ms,  42 ms,  67 ms,  53 ms,  314 ms,  45 ms,  58 ms,  50 ms,  321 ms,  42 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  3 ms,  4 ms,  3 ms,  3 ms,  2 ms,  3 ms,  3 ms, trycount= 27
+
+
+
+hw15   46.224.3.239
+ 4 ms,  2 ms,  3 ms,  3 ms,  2 ms,  5 ms,  2 ms,  4 ms,  4 ms,  6 ms, trycount= 35
+
+
+
+hw16   46.224.3.241
+ 3 ms,  3 ms,  2 ms,  3 ms,  8 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw17   46.224.3.130
+ 3 ms,  2 ms,  2 ms,  4 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms, trycount= 28
+
+
+
+hw18   46.224.3.131
+ 3 ms,  2 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 24
+
+
+
+hw19   46.224.3.132
+ 2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms, trycount= 33
+
+
+
+hw20   46.224.3.133
+ 3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+as1   185.147.177.2
+ 14 ms,  11 ms,  13 ms,  10 ms,  11 ms,  14 ms,  11 ms,  12 ms,  13 ms,  12 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 9 ms,  1 ms,  3 ms,  2 ms,  5 ms,  1 ms,  4 ms,  2 ms,  2 ms,  4 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 8 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 11 ms,  15 ms,  12 ms,  17 ms,  17 ms,  12 ms,  21 ms,  19 ms,  13 ms,  13 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  11 ms,  7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 3 ms,  1 ms,  8 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms,  8 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  3 ms,  12 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  0 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 7 ms,  3 ms,  2 ms,  3 ms,  3 ms,  11 ms,  3 ms,  4 ms,  6 ms,  12 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 31 ms,  28 ms,  16 ms,  10 ms,  12 ms,  32 ms,  28 ms,  34 ms,  31 ms,  31 ms, trycount= 10
+
+
+
+Sat Dec  9 16:50:12 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  4 ms, trycount= 27
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  13 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 34
+
+
+
+hw3   46.224.3.140
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 35
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 33
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 30
+
+
+
+hw6   46.224.3.143
+ 1 ms,  2 ms,  2 ms,  10 ms,  3 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms, trycount= 42
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw8   185.147.176.32
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 202 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  202 ms,  1 ms,  203 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  9 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 7 ms,  2 ms,  2 ms,  12 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 27
+
+
+
+hw15   46.224.3.239
+ 10 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw17   46.224.3.130
+ 2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 24
+
+
+
+hw18   46.224.3.131
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  3 ms, trycount= 32
+
+
+
+hw19   46.224.3.132
+ 2 ms,  2 ms,  2 ms,  2 ms,  9 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+as1   185.147.177.2
+ 5 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  15 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  3 ms,  23 ms,  2 ms,  4 ms,  4 ms,  15 ms,  9 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  4 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  6 ms,  1 ms,  3 ms,  49 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  19 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  235 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  5 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 5 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 7 ms,  4 ms,  1 ms,  1 ms,  1 ms,  14 ms,  2 ms,  2 ms,  5 ms,  5 ms, trycount= 10
+
+
+
+Sat Dec  9 17:50:31 2017
+hw1   46.224.3.138
+ 3 ms,  6 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  5 ms,  4 ms, trycount= 27
+
+
+
+hw2   46.224.3.139
+ 3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  4 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw3   46.224.3.140
+ 19 ms,  4 ms,  2 ms,  2 ms,  3 ms,  8 ms,  1 ms,  3 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw4   46.224.3.141
+ 3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms, trycount= 22
+
+
+
+hw5   46.224.3.142
+ 4 ms,  3 ms,  7 ms,  2 ms,  3 ms,  4 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 31
+
+
+
+hw6   46.224.3.143
+ 3 ms,  4 ms,  13 ms,  8 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw7   46.224.3.146
+ 2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 31
+
+
+
+hw8   185.147.176.32
+ 1 ms,  6 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 40 ms,  45 ms,  46 ms,  44 ms,  44 ms,  49 ms,  54 ms,  51 ms,  48 ms,  52 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 2 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 55 ms,  56 ms,  50 ms,  34 ms,  36 ms,  43 ms,  56 ms,  304 ms,  52 ms,  51 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  12 ms, trycount= 35
+
+
+
+hw14   46.224.3.238
+ 3 ms,  1 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw15   46.224.3.239
+ 2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  8 ms,  5 ms, trycount= 29
+
+
+
+hw16   46.224.3.241
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 26
+
+
+
+hw17   46.224.3.130
+ 2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  4 ms,  3 ms,  2 ms, trycount= 24
+
+
+
+hw18   46.224.3.131
+ 3 ms,  2 ms,  3 ms,  2 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw19   46.224.3.132
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  4 ms,  2 ms,  12 ms, trycount= 29
+
+
+
+hw20   46.224.3.133
+ 3 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  17 ms,  8 ms,  2 ms,  2 ms, trycount= 39
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  12 ms,  1 ms,  4 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  6 ms,  9 ms,  3 ms,  4 ms,  5 ms,  4 ms,  2 ms,  5 ms,  9 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 6 ms,  9 ms,  6 ms,  3 ms,  4 ms,  2 ms,  2 ms,  3 ms,  3 ms,  4 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 5 ms,  4 ms,  3 ms,  2 ms,  3 ms,  4 ms,  233 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 4 ms,  5 ms,  4 ms,  4 ms,  7 ms,  6 ms,  5 ms,  6 ms,  5 ms,  3 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  17 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  1 ms,  2 ms,  4 ms,  3 ms,  5 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 7 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+Sat Dec  9 18:49:38 2017
+hw1   46.224.3.138
+ 3 ms,  4 ms,  2 ms,  2 ms,  4 ms,  3 ms,  2 ms,  4 ms,  4 ms,  2 ms, trycount= 23
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms, trycount= 27
+
+
+
+hw3   46.224.3.140
+ 4 ms,  3 ms,  3 ms,  2 ms,  4 ms,  3 ms,  3 ms,  4 ms,  2 ms,  4 ms, trycount= 25
+
+
+
+hw4   46.224.3.141
+ 6 ms,  4 ms,  3 ms,  4 ms,  4 ms,  3 ms,  4 ms,  3 ms,  3 ms,  4 ms, trycount= 31
+
+
+
+hw5   46.224.3.142
+ 5 ms,  4 ms,  2 ms,  5 ms,  4 ms,  4 ms,  213 ms,  4 ms,  6 ms,  14 ms, trycount= 24
+
+
+
+hw6   46.224.3.143
+ 3 ms,  3 ms,  3 ms,  4 ms,  5 ms,  3 ms,  3 ms,  6 ms,  4 ms,  4 ms, trycount= 38
+
+
+
+hw7   46.224.3.146
+ 5 ms,  4 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  4 ms, trycount= 30
+
+
+
+hw8   185.147.176.32
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw14   46.224.3.238
+ 207 ms,  5 ms,  3 ms,  4 ms,  4 ms,  6 ms,  3 ms,  3 ms,  3 ms,  2 ms, trycount= 30
+
+
+
+hw15   46.224.3.239
+ 4 ms,  5 ms,  5 ms,  4 ms,  7 ms,  5 ms,  205 ms,  5 ms,  8 ms,  6 ms, trycount= 22
+
+
+
+hw16   46.224.3.241
+ 3 ms,  4 ms,  3 ms,  4 ms,  2 ms,  3 ms,  3 ms,  3 ms,  3 ms,  4 ms, trycount= 24
+
+
+
+hw17   46.224.3.130
+ 3 ms,  4 ms,  3 ms,  4 ms,  4 ms,  3 ms,  3 ms,  4 ms,  2 ms,  4 ms, trycount= 36
+
+
+
+hw18   46.224.3.131
+ 5 ms,  5 ms,  6 ms,  5 ms,  5 ms,  4 ms,  6 ms,  4 ms,  4 ms,  5 ms, trycount= 30
+
+
+
+hw19   46.224.3.132
+ 8 ms,  6 ms,  8 ms,  5 ms,  5 ms,  4 ms,  4 ms,  4 ms,  5 ms,  5 ms, trycount= 35
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  4 ms, trycount= 23
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  4 ms,  2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  6 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 5 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  5 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 12 ms,  3 ms,  2 ms,  1 ms,  3 ms,  2 ms,  9 ms,  9 ms,  13 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 7 ms,  4 ms,  5 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sat Dec  9 19:46:38 2017
+hw1   46.224.3.138
+ 3 ms,  3 ms,  3 ms,  4 ms,  3 ms,  5 ms,  4 ms,  3 ms,  5 ms,  2 ms, trycount= 19
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  4 ms, trycount= 27
+
+
+
+hw3   46.224.3.140
+ 4 ms,  3 ms,  4 ms,  3 ms,  3 ms,  3 ms,  4 ms,  2 ms,  7 ms,  3 ms, trycount= 27
+
+
+
+hw4   46.224.3.141
+ 3 ms,  4 ms,  10 ms,  3 ms,  6 ms,  4 ms,  4 ms,  3 ms,  4 ms,  7 ms, trycount= 25
+
+
+
+hw5   46.224.3.142
+ 11 ms,  5 ms,  8 ms,  5 ms,  6 ms,  5 ms,  9 ms,  5 ms,  5 ms,  5 ms, trycount= 28
+
+
+
+hw6   46.224.3.143
+ 2 ms,  4 ms,  16 ms,  4 ms,  4 ms,  2 ms,  4 ms,  3 ms,  3 ms,  13 ms, trycount= 24
+
+
+
+hw7   46.224.3.146
+ 5 ms,  5 ms,  4 ms,  5 ms,  4 ms,  5 ms,  3 ms,  5 ms,  3 ms,  5 ms, trycount= 31
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  6 ms,  3 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  1 ms, trycount= 25
+
+
+
+hw14   46.224.3.238
+ 5 ms,  4 ms,  4 ms,  3 ms,  2 ms,  3 ms,  4 ms,  4 ms,  7 ms,  4 ms, trycount= 26
+
+
+
+hw15   46.224.3.239
+ 6 ms,  4 ms,  5 ms,  5 ms,  5 ms,  4 ms,  14 ms,  5 ms,  5 ms,  7 ms, trycount= 25
+
+
+
+hw16   46.224.3.241
+ 4 ms,  4 ms,  3 ms,  3 ms,  3 ms,  4 ms,  4 ms,  206 ms,  4 ms,  4 ms, trycount= 25
+
+
+
+hw17   46.224.3.130
+ 4 ms,  4 ms,  5 ms,  4 ms,  3 ms,  4 ms,  9 ms,  4 ms,  5 ms,  4 ms, trycount= 42
+
+
+
+hw18   46.224.3.131
+ 5 ms,  5 ms,  6 ms,  7 ms,  6 ms,  6 ms,  5 ms,  7 ms,  11 ms,  5 ms, trycount= 24
+
+
+
+hw19   46.224.3.132
+ 4 ms,  5 ms,  4 ms,  4 ms,  4 ms,  5 ms,  5 ms,  5 ms,  6 ms,  6 ms, trycount= 26
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms,  10 ms, trycount= 25
+
+
+
+as1   185.147.177.2
+ 1 ms,  4 ms,  1 ms,  1 ms,  2 ms,  6 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  3 ms,  3 ms,  7 ms,  2 ms,  4 ms,  2 ms,  4 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  12 ms,  7 ms,  10 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 3 ms,  2 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 7 ms,  1 ms,  1 ms,  1 ms,  1 ms,  205 ms,  9 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  2 ms,  2 ms,  2 ms,  13 ms,  2 ms,  3 ms,  2 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 2 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  2 ms,  1 ms,  11 ms, trycount= 10
+
+
+
+Sat Dec  9 20:41:40 2017
+hw1   46.224.3.138
+ 4 ms,  4 ms,  3 ms,  2 ms,  3 ms,  3 ms,  3 ms,  10 ms,  5 ms,  3 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  12 ms,  2 ms,  6 ms,  11 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw3   46.224.3.140
+ 3 ms,  2 ms,  3 ms,  3 ms,  3 ms,  3 ms,  3 ms,  4 ms,  2 ms,  4 ms, trycount= 30
+
+
+
+hw4   46.224.3.141
+ 3 ms,  4 ms,  4 ms,  3 ms,  3 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms, trycount= 26
+
+
+
+hw5   46.224.3.142
+ 4 ms,  8 ms,  5 ms,  5 ms,  5 ms,  7 ms,  5 ms,  5 ms,  6 ms,  5 ms, trycount= 24
+
+
+
+hw6   46.224.3.143
+ 5 ms,  5 ms,  3 ms,  3 ms,  3 ms,  3 ms,  5 ms,  4 ms,  4 ms,  4 ms, trycount= 26
+
+
+
+hw7   46.224.3.146
+ 7 ms,  6 ms,  5 ms,  6 ms,  5 ms,  6 ms,  5 ms,  5 ms,  5 ms,  5 ms, trycount= 28
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  3 ms,  13 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms, trycount= 30
+
+
+
+hw14   46.224.3.238
+ 3 ms,  4 ms,  3 ms,  6 ms,  4 ms,  3 ms,  3 ms,  4 ms,  5 ms,  3 ms, trycount= 28
+
+
+
+hw15   46.224.3.239
+ 6 ms,  6 ms,  5 ms,  4 ms,  8 ms,  5 ms,  5 ms,  4 ms,  5 ms,  11 ms, trycount= 23
+
+
+
+hw16   46.224.3.241
+ 3 ms,  3 ms,  7 ms,  3 ms,  3 ms,  3 ms,  4 ms,  6 ms,  4 ms,  4 ms, trycount= 27
+
+
+
+hw17   46.224.3.130
+ 3 ms,  9 ms,  2 ms,  4 ms,  3 ms,  7 ms,  4 ms,  3 ms,  3 ms,  4 ms, trycount= 31
+
+
+
+hw18   46.224.3.131
+ 5 ms,  5 ms,  8 ms,  5 ms,  4 ms,  5 ms,  5 ms,  5 ms,  5 ms,  6 ms, trycount= 28
+
+
+
+hw19   46.224.3.132
+ 5 ms,  6 ms,  5 ms,  4 ms,  5 ms,  5 ms,  5 ms,  3 ms,  6 ms,  5 ms, trycount= 23
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 5 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 9 ms,  2 ms,  6 ms,  3 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  3 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+Sat Dec  9 21:37:14 2017
+hw1   46.224.3.138
+ 3 ms,  2 ms,  3 ms,  4 ms,  11 ms,  5 ms,  3 ms,  3 ms,  4 ms,  3 ms, trycount= 27
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw3   46.224.3.140
+ 3 ms,  4 ms,  3 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  4 ms,  4 ms, trycount= 25
+
+
+
+hw4   46.224.3.141
+ 4 ms,  2 ms,  4 ms,  4 ms,  12 ms,  3 ms,  4 ms,  4 ms,  3 ms,  4 ms, trycount= 28
+
+
+
+hw5   46.224.3.142
+ 12 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  6 ms,  21 ms, trycount= 29
+
+
+
+hw6   46.224.3.143
+ 4 ms,  3 ms,  4 ms,  4 ms,  5 ms,  4 ms,  6 ms,  4 ms,  3 ms,  4 ms, trycount= 26
+
+
+
+hw7   46.224.3.146
+ 6 ms,  8 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  4 ms,  5 ms,  5 ms, trycount= 34
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  5 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  4 ms,  3 ms, trycount= 26
+
+
+
+hw15   46.224.3.239
+ 5 ms,  6 ms,  5 ms,  6 ms,  4 ms,  5 ms,  5 ms,  5 ms,  6 ms,  4 ms, trycount= 32
+
+
+
+hw16   46.224.3.241
+ 4 ms,  4 ms,  3 ms,  3 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms, trycount= 24
+
+
+
+hw17   46.224.3.130
+ 3 ms,  3 ms,  3 ms,  3 ms,  3 ms,  7 ms,  4 ms,  3 ms,  5 ms,  3 ms, trycount= 34
+
+
+
+hw18   46.224.3.131
+ 6 ms,  5 ms,  6 ms,  6 ms,  12 ms,  10 ms,  3 ms,  6 ms,  3 ms,  6 ms, trycount= 25
+
+
+
+hw19   46.224.3.132
+ 3 ms,  4 ms,  4 ms,  5 ms,  5 ms,  5 ms,  5 ms,  4 ms,  5 ms,  6 ms, trycount= 32
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  3 ms,  3 ms,  2 ms,  3 ms,  2 ms,  1 ms,  1 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  8 ms,  4 ms,  4 ms,  4 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  3 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  14 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 14 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 4 ms,  2 ms,  2 ms,  3 ms,  2 ms,  3 ms,  2 ms,  3 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sat Dec  9 22:34:39 2017
+hw1   46.224.3.138
+ 4 ms,  3 ms,  4 ms,  4 ms,  3 ms,  237 ms,  4 ms,  4 ms,  3 ms,  4 ms, trycount= 28
+
+
+
+hw2   46.224.3.139
+ 2 ms,  3 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw3   46.224.3.140
+ 4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  5 ms,  4 ms,  4 ms, trycount= 28
+
+
+
+hw4   46.224.3.141
+ 4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  13 ms,  4 ms,  4 ms,  4 ms,  4 ms, trycount= 35
+
+
+
+hw5   46.224.3.142
+ 6 ms,  8 ms,  5 ms,  6 ms,  7 ms,  6 ms,  6 ms,  6 ms,  6 ms,  6 ms, trycount= 22
+
+
+
+hw6   46.224.3.143
+ 4 ms,  4 ms,  5 ms,  5 ms,  4 ms,  6 ms,  4 ms,  4 ms,  4 ms,  4 ms, trycount= 36
+
+
+
+hw7   46.224.3.146
+ 212 ms,  7 ms,  5 ms,  5 ms,  5 ms,  6 ms,  5 ms,  6 ms,  5 ms,  5 ms, trycount= 25
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  4 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 26
+
+
+
+hw14   46.224.3.238
+ 4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms, trycount= 25
+
+
+
+hw15   46.224.3.239
+ 5 ms,  5 ms,  7 ms,  6 ms,  6 ms,  6 ms,  5 ms,  17 ms,  6 ms,  7 ms, trycount= 25
+
+
+
+hw16   46.224.3.241
+ 4 ms,  5 ms,  3 ms,  6 ms,  4 ms,  3 ms,  4 ms,  4 ms,  4 ms,  3 ms, trycount= 19
+
+
+
+hw17   46.224.3.130
+ 3 ms,  4 ms,  4 ms,  4 ms,  3 ms,  4 ms,  4 ms,  7 ms,  4 ms,  3 ms, trycount= 26
+
+
+
+hw18   46.224.3.131
+ 6 ms,  6 ms,  5 ms,  4 ms,  5 ms,  7 ms,  6 ms,  6 ms,  5 ms,  9 ms, trycount= 28
+
+
+
+hw19   46.224.3.132
+ 5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  6 ms,  5 ms,  213 ms,  7 ms,  232 ms, trycount= 29
+
+
+
+hw20   46.224.3.133
+ 2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  3 ms,  4 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  9 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  1 ms,  4 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 20 ms,  1 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms,  13 ms,  8 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  4 ms,  2 ms,  3 ms,  1 ms,  2 ms,  6 ms,  8 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  7 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  2 ms,  8 ms,  11 ms,  13 ms,  12 ms,  12 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  7 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 6 ms,  2 ms,  2 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 2 ms,  1 ms,  2 ms,  11 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+Sat Dec  9 23:30:13 2017
+hw1   46.224.3.138
+ 4 ms,  3 ms,  4 ms,  4 ms,  2 ms,  4 ms,  3 ms,  6 ms,  3 ms,  2 ms, trycount= 29
+
+
+
+hw2   46.224.3.139
+ 35 ms,  5 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 45
+
+
+
+hw3   46.224.3.140
+ 3 ms,  3 ms,  4 ms,  4 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  3 ms, trycount= 24
+
+
+
+hw4   46.224.3.141
+ 4 ms,  3 ms,  3 ms,  6 ms,  3 ms,  3 ms,  3 ms,  3 ms,  3 ms,  8 ms, trycount= 31
+
+
+
+hw5   46.224.3.142
+ 5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  9 ms,  10 ms,  7 ms,  5 ms, trycount= 22
+
+
+
+hw6   46.224.3.143
+ 3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  3 ms,  4 ms,  3 ms,  4 ms, trycount= 24
+
+
+
+hw7   46.224.3.146
+ 5 ms,  13 ms,  4 ms,  5 ms,  4 ms,  223 ms,  10 ms,  224 ms,  5 ms,  6 ms, trycount= 35
+
+
+
+hw8   185.147.176.32
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  4 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  5 ms,  2 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 4 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw14   46.224.3.238
+ 3 ms,  4 ms,  2 ms,  3 ms,  3 ms,  3 ms,  4 ms,  12 ms,  6 ms,  2 ms, trycount= 27
+
+
+
+hw15   46.224.3.239
+ 5 ms,  4 ms,  5 ms,  4 ms,  4 ms,  5 ms,  11 ms,  212 ms,  5 ms,  4 ms, trycount= 22
+
+
+
+hw16   46.224.3.241
+ 4 ms,  6 ms,  3 ms,  5 ms,  4 ms,  3 ms,  5 ms,  3 ms,  3 ms,  3 ms, trycount= 35
+
+
+
+hw17   46.224.3.130
+ 4 ms,  3 ms,  4 ms,  4 ms,  3 ms,  2 ms,  2 ms,  4 ms,  3 ms,  4 ms, trycount= 30
+
+
+
+hw18   46.224.3.131
+ 5 ms,  5 ms,  4 ms,  4 ms,  4 ms,  4 ms,  5 ms,  3 ms,  5 ms,  5 ms, trycount= 26
+
+
+
+hw19   46.224.3.132
+ 215 ms,  211 ms,  4 ms,  5 ms,  9 ms,  4 ms,  18 ms,  11 ms,  4 ms,  4 ms, trycount= 25
+
+
+
+hw20   46.224.3.133
+ 3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  4 ms,  3 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  3 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 4 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  5 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 3 ms,  1 ms,  1 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  1 ms,  5 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 8 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  5 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  2 ms,  3 ms,  3 ms,  11 ms,  1 ms,  1 ms,  4 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+Sun Dec 10 00:28:44 2017
+hw1   46.224.3.138
+ 5 ms,  1 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  13 ms, trycount= 27
+
+
+
+hw2   46.224.3.139
+ 2 ms,  8 ms,  2 ms,  3 ms,  3 ms,  2 ms,  4 ms,  2 ms,  2 ms,  3 ms, trycount= 24
+
+
+
+hw3   46.224.3.140
+ 2 ms,  165 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 21
+
+
+
+hw5   46.224.3.142
+ 9 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  6 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw6   46.224.3.143
+ 4 ms,  2 ms,  2 ms,  2 ms,  5 ms,  3 ms,  7 ms,  2 ms,  3 ms,  2 ms, trycount= 22
+
+
+
+hw7   46.224.3.146
+ 3 ms,  1 ms,  3 ms,  21 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 25
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  2 ms,  3 ms,  3 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 3 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  11 ms,  8 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 30
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  4 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw15   46.224.3.239
+ 2 ms,  2 ms,  1 ms,  3 ms,  1 ms,  1 ms,  4 ms,  1 ms,  8 ms,  1 ms, trycount= 24
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw19   46.224.3.132
+ 2 ms,  1 ms,  2 ms,  4 ms,  2 ms,  5 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 4 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  3 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 5 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  3 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 01:24:24 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 32
+
+
+
+hw2   46.224.3.139
+ 5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 33
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 44
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  8 ms,  2 ms,  7 ms,  2 ms, trycount= 24
+
+
+
+hw5   46.224.3.142
+ 1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  4 ms,  2 ms,  2 ms, trycount= 40
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 35
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 26
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  4 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 3 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  11 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw15   46.224.3.239
+ 4 ms,  5 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 29
+
+
+
+hw16   46.224.3.241
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  3 ms,  1 ms,  2 ms,  1 ms,  2 ms,  4 ms,  2 ms, trycount= 31
+
+
+
+hw18   46.224.3.131
+ 2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 25
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms, trycount= 31
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 20
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  1 ms,  1 ms,  4 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 11 ms,  5 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 4 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  3 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 5 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 4 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 02:24:47 2017
+hw1   46.224.3.138
+ 2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  94 ms, trycount= 40
+
+
+
+hw3   46.224.3.140
+ 2 ms,  8 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 30
+
+
+
+hw4   46.224.3.141
+ 1 ms,  2 ms,  11 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 28
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw6   46.224.3.143
+ 2 ms,  1 ms,  7 ms,  2 ms,  1 ms,  4 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 27
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 31
+
+
+
+hw8   185.147.176.32
+ 1 ms,  7 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  5 ms,  1 ms,  2 ms, trycount= 23
+
+
+
+hw14   46.224.3.238
+ 4 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  9 ms,  2 ms, trycount= 35
+
+
+
+hw15   46.224.3.239
+ 1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 31
+
+
+
+hw16   46.224.3.241
+ 1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 29
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw18   46.224.3.131
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  4 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 27
+
+
+
+hw19   46.224.3.132
+ 3 ms,  1 ms,  2 ms,  1 ms,  9 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 27
+
+
+
+hw20   46.224.3.133
+ 6 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 26
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 03:23:21 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw4   46.224.3.141
+ 2 ms,  4 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 32
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 38
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw7   46.224.3.146
+ 1 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  35 ms, trycount= 25
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 27
+
+
+
+hw14   46.224.3.238
+ 15 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  19 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw15   46.224.3.239
+ 2 ms,  1 ms,  2 ms,  3 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 33
+
+
+
+hw16   46.224.3.241
+ 6 ms,  2 ms,  2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  13 ms,  3 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  1 ms,  1 ms,  4 ms,  2 ms,  3 ms,  1 ms,  2 ms,  4 ms, trycount= 27
+
+
+
+hw19   46.224.3.132
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  1 ms,  1 ms,  3 ms, trycount= 26
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  8 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  12 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 4 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  1 ms,  2 ms,  8 ms,  4 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 04:22:01 2017
+hw1   46.224.3.138
+ 1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 27
+
+
+
+hw2   46.224.3.139
+ 8 ms,  3 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw3   46.224.3.140
+ 7 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw4   46.224.3.141
+ 1 ms,  1 ms,  1 ms,  6 ms,  3 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw5   46.224.3.142
+ 2 ms,  1 ms,  2 ms,  1 ms,  15 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 24
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw7   46.224.3.146
+ 1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 28
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  203 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw15   46.224.3.239
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 35
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 37
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 28
+
+
+
+hw18   46.224.3.131
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  4 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 22
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 30
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  7 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  4 ms,  2 ms,  2 ms,  2 ms,  4 ms,  3 ms,  2 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  3 ms,  5 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 05:17:53 2017
+hw1   46.224.3.138
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 27
+
+
+
+hw2   46.224.3.139
+ 6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 36
+
+
+
+hw3   46.224.3.140
+ 1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  10 ms, trycount= 31
+
+
+
+hw4   46.224.3.141
+ 2 ms,  9 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw5   46.224.3.142
+ 2 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  3 ms,  2 ms,  1 ms,  1 ms, trycount= 26
+
+
+
+hw6   46.224.3.143
+ 2 ms,  1 ms,  12 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 28
+
+
+
+hw7   46.224.3.146
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 22
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  8 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw14   46.224.3.238
+ 1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 23
+
+
+
+hw15   46.224.3.239
+ 4 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 27
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 29
+
+
+
+hw18   46.224.3.131
+ 1 ms,  2 ms,  2 ms,  5 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 25
+
+
+
+hw19   46.224.3.132
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  13 ms,  1 ms, trycount= 27
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 10 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  3 ms,  12 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 06:14:03 2017
+hw1   46.224.3.138
+ 1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  5 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 25
+
+
+
+hw2   46.224.3.139
+ 6 ms,  2 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw3   46.224.3.140
+ 1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms, trycount= 28
+
+
+
+hw4   46.224.3.141
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 28
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  4 ms,  1 ms,  15 ms,  1 ms,  1 ms, trycount= 33
+
+
+
+hw6   46.224.3.143
+ 2 ms,  12 ms,  2 ms,  2 ms,  1 ms,  1 ms,  5 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  6 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 30
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  5 ms,  2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  6 ms, trycount= 34
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  1 ms, trycount= 24
+
+
+
+hw15   46.224.3.239
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  7 ms,  2 ms,  1 ms, trycount= 29
+
+
+
+hw16   46.224.3.241
+ 1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 24
+
+
+
+hw17   46.224.3.130
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 29
+
+
+
+hw18   46.224.3.131
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  6 ms,  1 ms, trycount= 26
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 35
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  8 ms, trycount= 25
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  6 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 4 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  8 ms,  2 ms,  7 ms,  7 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 6 ms,  1 ms,  1 ms,  1 ms,  2 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  2 ms,  2 ms,  7 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  7 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  5 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 07:11:01 2017
+hw1   46.224.3.138
+ 1 ms,  6 ms,  1 ms,  9 ms,  1 ms,  1 ms,  3 ms,  2 ms,  1 ms,  2 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 5 ms,  3 ms,  1 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 22
+
+
+
+hw3   46.224.3.140
+ 7 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 29
+
+
+
+hw4   46.224.3.141
+ 2 ms,  1 ms,  1 ms,  14 ms,  1 ms,  2 ms,  2 ms,  2 ms,  11 ms,  6 ms, trycount= 28
+
+
+
+hw5   46.224.3.142
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms, trycount= 34
+
+
+
+hw6   46.224.3.143
+ 1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  6 ms,  1 ms, trycount= 27
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms, trycount= 28
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  4 ms,  2 ms,  1 ms,  12 ms, trycount= 36
+
+
+
+hw14   46.224.3.238
+ 1 ms,  1 ms,  2 ms,  3 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 34
+
+
+
+hw15   46.224.3.239
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  2 ms, trycount= 29
+
+
+
+hw16   46.224.3.241
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 34
+
+
+
+hw17   46.224.3.130
+ 4 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 22
+
+
+
+hw18   46.224.3.131
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 32
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 27
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms,  1 ms, trycount= 27
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  4 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  7 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 08:09:35 2017
+hw1   46.224.3.138
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  8 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 33
+
+
+
+hw3   46.224.3.140
+ 1 ms,  1 ms,  4 ms,  2 ms,  1 ms,  4 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 19
+
+
+
+hw4   46.224.3.141
+ 3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  4 ms,  7 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  10 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw6   46.224.3.143
+ 7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw7   46.224.3.146
+ 1 ms,  3 ms,  1 ms,  14 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 30
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  5 ms, trycount= 24
+
+
+
+hw14   46.224.3.238
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 30
+
+
+
+hw15   46.224.3.239
+ 2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  3 ms, trycount= 32
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw17   46.224.3.130
+ 2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 26
+
+
+
+hw18   46.224.3.131
+ 1 ms,  1 ms,  1 ms,  2 ms,  6 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 25
+
+
+
+hw19   46.224.3.132
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 27
+
+
+
+hw20   46.224.3.133
+ 3 ms,  2 ms,  6 ms,  3 ms,  2 ms,  2 ms,  3 ms,  5 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  2 ms,  3 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 5 ms,  2 ms,  12 ms,  2 ms,  1 ms,  5 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  4 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  2 ms,  1 ms,  1 ms,  7 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 5 ms,  1 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 9 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 4 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  12 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 09:06:08 2017
+hw1   46.224.3.138
+ 2 ms,  6 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw3   46.224.3.140
+ 2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 43
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  7 ms,  6 ms,  2 ms,  2 ms, trycount= 35
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  4 ms,  2 ms, trycount= 25
+
+
+
+hw6   46.224.3.143
+ 11 ms,  2 ms,  2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms, trycount= 26
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  5 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 27
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 2 ms,  8 ms,  1 ms,  2 ms,  5 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw15   46.224.3.239
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 25
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw18   46.224.3.131
+ 2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 32
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  5 ms,  4 ms,  2 ms,  1 ms,  4 ms,  3 ms,  2 ms,  1 ms, trycount= 27
+
+
+
+hw20   46.224.3.133
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 35
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  1 ms,  9 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  6 ms,  2 ms,  2 ms,  2 ms,  9 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  12 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  1 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 10:04:48 2017
+hw1   46.224.3.138
+ 1 ms,  2 ms,  2 ms,  204 ms,  3 ms,  2 ms,  10 ms,  2 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw2   46.224.3.139
+ 2 ms,  10 ms,  2 ms,  15 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw3   46.224.3.140
+ 77 ms,  2 ms,  15 ms,  2 ms,  9 ms,  2 ms,  12 ms,  3 ms,  2 ms,  1 ms, trycount= 22
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 26
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  4 ms,  1 ms,  1 ms,  2 ms, trycount= 36
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  4 ms,  7 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 42 ms,  38 ms,  33 ms,  25 ms,  16 ms,  10 ms,  9 ms,  1 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  7 ms,  3 ms,  3 ms,  2 ms, trycount= 27
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw15   46.224.3.239
+ 1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  3 ms, trycount= 28
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw17   46.224.3.130
+ 2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  11 ms,  2 ms, trycount= 28
+
+
+
+hw19   46.224.3.132
+ 2 ms,  9 ms,  5 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms, trycount= 37
+
+
+
+hw20   46.224.3.133
+ 3 ms,  2 ms,  6 ms,  2 ms,  3 ms,  2 ms,  3 ms,  2 ms,  144 ms,  2 ms, trycount= 31
+
+
+
+as1   185.147.177.2
+ 49 ms,  46 ms,  62 ms,  48 ms,  56 ms,  50 ms,  46 ms,  47 ms,  48 ms,  40 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  6 ms,  5 ms,  4 ms,  4 ms,  4 ms,  4 ms,  6 ms,  6 ms,  5 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 18 ms,  5 ms,  5 ms,  5 ms,  4 ms,  6 ms,  5 ms,  7 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  4 ms,  3 ms,  5 ms,  5 ms,  3 ms,  4 ms,  4 ms,  3 ms,  5 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 42 ms,  54 ms,  59 ms,  38 ms,  41 ms,  49 ms,  41 ms,  48 ms,  55 ms,  43 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 11 ms,  23 ms,  6 ms,  235 ms,  4 ms,  7 ms,  4 ms,  4 ms,  4 ms,  4 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  7 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 5 ms,  4 ms,  4 ms,  4 ms,  3 ms,  6 ms,  5 ms,  3 ms,  9 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 8 ms,  11 ms,  8 ms,  8 ms,  7 ms,  6 ms,  6 ms,  6 ms,  6 ms,  12 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 44 ms,  38 ms,  22 ms,  22 ms,  20 ms,  25 ms,  27 ms,  35 ms,  37 ms,  41 ms, trycount= 10
+
+
+
+Sun Dec 10 11:01:13 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  5 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw2   46.224.3.139
+ 8 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms, trycount= 24
+
+
+
+hw5   46.224.3.142
+ 2 ms,  204 ms,  6 ms,  3 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 29
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  9 ms,  6 ms, trycount= 39
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  1 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  7 ms,  2 ms, trycount= 27
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 59 ms,  50 ms,  51 ms,  54 ms,  57 ms,  61 ms,  47 ms,  56 ms,  42 ms,  58 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 51 ms,  51 ms,  295 ms,  29 ms,  32 ms,  58 ms,  44 ms,  34 ms,  36 ms,  41 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  9 ms,  2 ms, trycount= 29
+
+
+
+hw15   46.224.3.239
+ 14 ms,  3 ms,  2 ms,  4 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  3 ms, trycount= 27
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 31
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw18   46.224.3.131
+ 2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 35
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  7 ms, trycount= 28
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 22
+
+
+
+as1   185.147.177.2
+ 42 ms,  44 ms,  54 ms,  52 ms,  44 ms,  49 ms,  49 ms,  58 ms,  317 ms,  54 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 7 ms,  7 ms,  8 ms,  4 ms,  5 ms,  2 ms,  7 ms,  10 ms,  4 ms,  6 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 11 ms,  12 ms,  10 ms,  9 ms,  8 ms,  7 ms,  6 ms,  8 ms,  12 ms,  10 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 10 ms,  10 ms,  9 ms,  11 ms,  9 ms,  7 ms,  7 ms,  4 ms,  3 ms,  6 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 295 ms,  35 ms,  69 ms,  44 ms,  31 ms,  27 ms,  21 ms,  19 ms,  29 ms,  35 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 10 ms,  8 ms,  11 ms,  10 ms,  10 ms,  9 ms,  8 ms,  8 ms,  8 ms,  4 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 9 ms,  8 ms,  4 ms,  2 ms,  8 ms,  4 ms,  5 ms,  4 ms,  2 ms,  10 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  206 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 4 ms,  2 ms,  2 ms,  5 ms,  2 ms,  4 ms,  3 ms,  3 ms,  5 ms,  4 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 54 ms,  52 ms,  43 ms,  58 ms,  52 ms,  53 ms,  57 ms,  44 ms,  46 ms,  42 ms, trycount= 10
+
+
+
+Sun Dec 10 11:59:30 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  4 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  4 ms, trycount= 18
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  9 ms,  3 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms, trycount= 28
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  4 ms, trycount= 26
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 33
+
+
+
+hw6   46.224.3.143
+ 1 ms,  3 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms, trycount= 32
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  3 ms,  6 ms,  17 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 23
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw15   46.224.3.239
+ 2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 32
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  4 ms, trycount= 22
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw18   46.224.3.131
+ 2 ms,  7 ms,  2 ms,  7 ms,  1 ms,  2 ms,  2 ms,  5 ms,  2 ms,  11 ms, trycount= 29
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 24
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 32
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  7 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  3 ms,  8 ms,  6 ms,  7 ms,  8 ms,  7 ms,  7 ms,  10 ms,  11 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 15 ms,  4 ms,  2 ms,  3 ms,  5 ms,  5 ms,  3 ms,  2 ms,  4 ms,  4 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 6 ms,  6 ms,  9 ms,  9 ms,  7 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 9 ms,  1 ms,  2 ms,  4 ms,  3 ms,  2 ms,  3 ms,  3 ms,  3 ms,  7 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  7 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 13 ms,  9 ms,  6 ms,  8 ms,  2 ms,  2 ms,  2 ms,  4 ms,  4 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 13 ms,  12 ms,  9 ms,  6 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  7 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 12:55:34 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  1 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  7 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  10 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 33
+
+
+
+hw3   46.224.3.140
+ 2 ms,  3 ms,  2 ms,  5 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms, trycount= 25
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw5   46.224.3.142
+ 3 ms,  3 ms,  2 ms,  2 ms,  7 ms,  3 ms,  2 ms,  1 ms,  3 ms,  2 ms, trycount= 23
+
+
+
+hw6   46.224.3.143
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms, trycount= 26
+
+
+
+hw7   46.224.3.146
+ 2 ms,  11 ms,  2 ms,  2 ms,  1 ms,  3 ms,  2 ms,  8 ms,  7 ms,  1 ms, trycount= 26
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 205 ms,  2 ms,  1 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 47 ms,  41 ms,  43 ms,  45 ms,  63 ms,  46 ms,  43 ms,  34 ms,  32 ms,  30 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  4 ms,  3 ms,  1 ms,  1 ms,  1 ms,  7 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 33 ms,  25 ms,  27 ms,  30 ms,  32 ms,  44 ms,  52 ms,  39 ms,  40 ms,  41 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  8 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 26
+
+
+
+hw15   46.224.3.239
+ 2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  7 ms, trycount= 27
+
+
+
+hw16   46.224.3.241
+ 2 ms,  24 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw17   46.224.3.130
+ 5 ms,  2 ms,  2 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  14 ms,  2 ms, trycount= 24
+
+
+
+hw18   46.224.3.131
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  5 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw19   46.224.3.132
+ 2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  3 ms,  1 ms, trycount= 27
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+as1   185.147.177.2
+ 1 ms,  5 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 12 ms,  4 ms,  2 ms,  8 ms,  4 ms,  2 ms,  16 ms,  4 ms,  3 ms,  5 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 7 ms,  3 ms,  3 ms,  2 ms,  4 ms,  4 ms,  2 ms,  6 ms,  4 ms,  11 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 6 ms,  15 ms,  2 ms,  3 ms,  3 ms,  2 ms,  5 ms,  2 ms,  2 ms,  6 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 3 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 5 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  4 ms,  6 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 8 ms,  5 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  3 ms,  3 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  3 ms,  1 ms,  1 ms,  3 ms,  3 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 13:51:21 2017
+hw1   46.224.3.138
+ 2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  11 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  3 ms,  2 ms,  2 ms,  5 ms,  2 ms, trycount= 26
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms, trycount= 31
+
+
+
+hw4   46.224.3.141
+ 2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 30
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  14 ms,  5 ms,  2 ms,  2 ms, trycount= 36
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  3 ms,  4 ms, trycount= 32
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  5 ms,  4 ms,  2 ms,  4 ms,  2 ms,  2 ms,  3 ms,  4 ms, trycount= 29
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 29 ms,  35 ms,  45 ms,  56 ms,  41 ms,  43 ms,  42 ms,  36 ms,  36 ms,  37 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 34 ms,  34 ms,  33 ms,  47 ms,  42 ms,  43 ms,  51 ms,  49 ms,  57 ms,  57 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw14   46.224.3.238
+ 2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 34
+
+
+
+hw15   46.224.3.239
+ 3 ms,  2 ms,  2 ms,  4 ms,  13 ms,  3 ms,  6 ms,  4 ms,  5 ms,  4 ms, trycount= 25
+
+
+
+hw16   46.224.3.241
+ 7 ms,  3 ms,  1 ms,  3 ms,  5 ms,  7 ms,  2 ms,  2 ms,  3 ms,  4 ms, trycount= 28
+
+
+
+hw17   46.224.3.130
+ 5 ms,  2 ms,  5 ms,  2 ms,  3 ms,  2 ms,  8 ms,  2 ms,  2 ms,  2 ms, trycount= 33
+
+
+
+hw18   46.224.3.131
+ 2 ms,  3 ms,  3 ms,  3 ms,  4 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw19   46.224.3.132
+ 9 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  5 ms,  3 ms, trycount= 23
+
+
+
+hw20   46.224.3.133
+ 2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+as1   185.147.177.2
+ 34 ms,  29 ms,  29 ms,  29 ms,  30 ms,  28 ms,  19 ms,  30 ms,  33 ms,  31 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 4 ms,  3 ms,  2 ms,  1 ms,  5 ms,  4 ms,  3 ms,  4 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  3 ms,  4 ms,  11 ms,  8 ms,  3 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 4 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 33 ms,  26 ms,  26 ms,  28 ms,  29 ms,  29 ms,  45 ms,  39 ms,  43 ms,  41 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  50 ms,  3 ms,  2 ms,  3 ms,  2 ms,  4 ms,  18 ms,  5 ms,  3 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  6 ms,  4 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 10 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  5 ms,  6 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 32 ms,  43 ms,  52 ms,  39 ms,  38 ms,  46 ms,  46 ms,  56 ms,  55 ms,  51 ms, trycount= 10
+
+
+
+Sun Dec 10 14:50:19 2017
+hw1   46.224.3.138
+ 11 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  7 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw3   46.224.3.140
+ 2 ms,  4 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 26
+
+
+
+hw4   46.224.3.141
+ 4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw5   46.224.3.142
+ 4 ms,  3 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  10 ms,  2 ms, trycount= 25
+
+
+
+hw6   46.224.3.143
+ 2 ms,  7 ms,  3 ms,  3 ms,  4 ms,  3 ms,  2 ms,  7 ms,  8 ms,  8 ms, trycount= 31
+
+
+
+hw7   46.224.3.146
+ 4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 27
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 6 ms,  204 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 24
+
+
+
+hw14   46.224.3.238
+ 4 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  57 ms,  4 ms,  3 ms,  4 ms, trycount= 35
+
+
+
+hw15   46.224.3.239
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw16   46.224.3.241
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms, trycount= 32
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  3 ms,  2 ms, trycount= 27
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw19   46.224.3.132
+ 2 ms,  3 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 33
+
+
+
+hw20   46.224.3.133
+ 65 ms,  2 ms,  2 ms,  1 ms,  5 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 29
+
+
+
+as1   185.147.177.2
+ 3 ms,  1 ms,  1 ms,  1 ms,  7 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  16 ms,  2 ms,  13 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 6 ms,  3 ms,  3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 4 ms,  7 ms,  8 ms,  3 ms,  2 ms,  4 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 9 ms,  7 ms,  5 ms,  8 ms,  11 ms,  20 ms,  17 ms,  11 ms,  5 ms,  7 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 4 ms,  3 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  10 ms,  3 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  12 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  203 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 3 ms,  1 ms,  202 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  3 ms,  5 ms,  3 ms,  2 ms,  3 ms,  5 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 40 ms,  45 ms,  45 ms,  39 ms,  31 ms,  17 ms,  29 ms,  40 ms,  28 ms,  29 ms, trycount= 10
+
+
+
+Sun Dec 10 15:48:46 2017
+hw1   46.224.3.138
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms, trycount= 27
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  8 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw5   46.224.3.142
+ 1 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw6   46.224.3.143
+ 2 ms,  3 ms,  2 ms,  2 ms,  4 ms,  5 ms,  1 ms,  3 ms,  8 ms,  2 ms, trycount= 28
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  4 ms,  2 ms, trycount= 23
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  8 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  7 ms,  6 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  6 ms, trycount= 28
+
+
+
+hw15   46.224.3.239
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  31 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw17   46.224.3.130
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 19
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms, trycount= 24
+
+
+
+hw19   46.224.3.132
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+as1   185.147.177.2
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  14 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  14 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 5 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  13 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  13 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 7 ms,  4 ms,  10 ms,  2 ms,  17 ms,  2 ms,  3 ms,  3 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 16:42:43 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  8 ms, trycount= 22
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  5 ms,  3 ms, trycount= 28
+
+
+
+hw4   46.224.3.141
+ 2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw5   46.224.3.142
+ 2 ms,  1 ms,  2 ms,  2 ms,  9 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  4 ms,  2 ms,  5 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 23
+
+
+
+hw15   46.224.3.239
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 22
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 31
+
+
+
+hw17   46.224.3.130
+ 7 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 38
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  5 ms,  3 ms,  2 ms,  2 ms,  4 ms, trycount= 25
+
+
+
+hw19   46.224.3.132
+ 3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  3 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+as1   185.147.177.2
+ 1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  15 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 7 ms,  4 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 4 ms,  2 ms,  2 ms,  4 ms,  7 ms,  6 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  2 ms,  2 ms,  10 ms,  2 ms,  5 ms,  7 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 4 ms,  2 ms,  2 ms,  6 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  7 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 5 ms,  4 ms,  3 ms,  4 ms,  5 ms,  3 ms,  3 ms,  3 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  14 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  2 ms,  2 ms,  3 ms,  3 ms,  5 ms,  5 ms,  3 ms,  3 ms,  3 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  2 ms,  2 ms,  3 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 17:38:44 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  3 ms, trycount= 30
+
+
+
+hw3   46.224.3.140
+ 2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  1 ms,  3 ms,  2 ms,  3 ms,  2 ms, trycount= 29
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw5   46.224.3.142
+ 1 ms,  2 ms,  2 ms,  2 ms,  4 ms,  4 ms,  1 ms,  5 ms,  1 ms,  6 ms, trycount= 23
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  1 ms,  3 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  7 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  11 ms,  2 ms, trycount= 27
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  4 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  1 ms,  1 ms,  2 ms, trycount= 30
+
+
+
+hw15   46.224.3.239
+ 5 ms,  2 ms,  1 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 35
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw17   46.224.3.130
+ 3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  2 ms, trycount= 30
+
+
+
+hw18   46.224.3.131
+ 2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  3 ms,  2 ms,  4 ms, trycount= 30
+
+
+
+hw19   46.224.3.132
+ 2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 22
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  3 ms,  2 ms, trycount= 23
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  3 ms,  7 ms,  13 ms,  12 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  4 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  13 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  9 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  7 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 18:34:24 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  15 ms,  2 ms,  7 ms,  2 ms, trycount= 28
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  3 ms, trycount= 25
+
+
+
+hw5   46.224.3.142
+ 2 ms,  6 ms,  5 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms,  5 ms, trycount= 32
+
+
+
+hw6   46.224.3.143
+ 2 ms,  31 ms,  6 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  7 ms,  2 ms, trycount= 29
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  1 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms, trycount= 29
+
+
+
+hw15   46.224.3.239
+ 3 ms,  2 ms,  7 ms,  4 ms,  6 ms,  4 ms,  2 ms,  2 ms,  3 ms,  5 ms, trycount= 23
+
+
+
+hw16   46.224.3.241
+ 4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  1 ms,  3 ms,  2 ms, trycount= 22
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 29
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  3 ms,  3 ms,  5 ms,  2 ms,  2 ms,  3 ms,  2 ms,  3 ms, trycount= 30
+
+
+
+hw19   46.224.3.132
+ 3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  3 ms,  3 ms,  2 ms,  6 ms,  5 ms, trycount= 20
+
+
+
+hw20   46.224.3.133
+ 3 ms,  19 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 33
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  3 ms,  2 ms,  3 ms,  2 ms,  13 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  13 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 19:29:28 2017
+hw1   46.224.3.138
+ 3 ms,  4 ms,  3 ms,  4 ms,  3 ms,  3 ms,  3 ms,  2 ms,  16 ms,  3 ms, trycount= 24
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  4 ms,  2 ms,  2 ms,  3 ms, trycount= 33
+
+
+
+hw3   46.224.3.140
+ 3 ms,  4 ms,  2 ms,  11 ms,  4 ms,  4 ms,  4 ms,  4 ms,  5 ms,  2 ms, trycount= 26
+
+
+
+hw4   46.224.3.141
+ 5 ms,  4 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw5   46.224.3.142
+ 4 ms,  8 ms,  3 ms,  10 ms,  3 ms,  5 ms,  2 ms,  7 ms,  8 ms,  2 ms, trycount= 29
+
+
+
+hw6   46.224.3.143
+ 2 ms,  3 ms,  3 ms,  4 ms,  7 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw7   46.224.3.146
+ 5 ms,  2 ms,  2 ms,  1 ms,  4 ms,  2 ms,  2 ms,  4 ms,  5 ms,  5 ms, trycount= 24
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  5 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  9 ms,  10 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  3 ms,  3 ms,  5 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw14   46.224.3.238
+ 3 ms,  4 ms,  2 ms,  6 ms,  4 ms,  2 ms,  7 ms,  3 ms,  5 ms,  6 ms, trycount= 25
+
+
+
+hw15   46.224.3.239
+ 7 ms,  3 ms,  2 ms,  2 ms,  2 ms,  4 ms,  14 ms,  5 ms,  2 ms,  3 ms, trycount= 26
+
+
+
+hw16   46.224.3.241
+ 2 ms,  3 ms,  4 ms,  2 ms,  3 ms,  4 ms,  4 ms,  2 ms,  2 ms,  4 ms, trycount= 23
+
+
+
+hw17   46.224.3.130
+ 11 ms,  3 ms,  4 ms,  6 ms,  3 ms,  9 ms,  2 ms,  6 ms,  10 ms,  2 ms, trycount= 31
+
+
+
+hw18   46.224.3.131
+ 5 ms,  5 ms,  4 ms,  4 ms,  2 ms,  2 ms,  4 ms,  17 ms,  3 ms,  5 ms, trycount= 29
+
+
+
+hw19   46.224.3.132
+ 4 ms,  2 ms,  5 ms,  7 ms,  3 ms,  3 ms,  5 ms,  7 ms,  2 ms,  3 ms, trycount= 32
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  3 ms,  8 ms,  7 ms,  5 ms, trycount= 25
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  3 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  3 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  1 ms,  4 ms,  2 ms,  10 ms,  2 ms,  2 ms,  9 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 13 ms,  8 ms,  2 ms,  1 ms,  2 ms,  2 ms,  3 ms,  3 ms,  5 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 20:26:09 2017
+hw1   46.224.3.138
+ 4 ms,  3 ms,  2 ms,  3 ms,  3 ms,  3 ms,  15 ms,  3 ms,  4 ms,  3 ms, trycount= 22
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw3   46.224.3.140
+ 4 ms,  7 ms,  4 ms,  3 ms,  6 ms,  4 ms,  4 ms,  3 ms,  2 ms,  6 ms, trycount= 35
+
+
+
+hw4   46.224.3.141
+ 3 ms,  3 ms,  6 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  2 ms, trycount= 25
+
+
+
+hw5   46.224.3.142
+ 5 ms,  5 ms,  3 ms,  4 ms,  4 ms,  3 ms,  5 ms,  5 ms,  4 ms,  5 ms, trycount= 29
+
+
+
+hw6   46.224.3.143
+ 5 ms,  4 ms,  4 ms,  3 ms,  11 ms,  5 ms,  4 ms,  4 ms,  3 ms,  4 ms, trycount= 30
+
+
+
+hw7   46.224.3.146
+ 5 ms,  3 ms,  5 ms,  4 ms,  5 ms,  5 ms,  5 ms,  6 ms,  4 ms,  5 ms, trycount= 24
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 202 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  1 ms,  6 ms,  3 ms,  2 ms,  1 ms,  3 ms,  3 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw14   46.224.3.238
+ 8 ms,  5 ms,  3 ms,  4 ms,  4 ms,  3 ms,  5 ms,  5 ms,  3 ms,  4 ms, trycount= 28
+
+
+
+hw15   46.224.3.239
+ 4 ms,  9 ms,  5 ms,  4 ms,  211 ms,  11 ms,  7 ms,  5 ms,  5 ms,  9 ms, trycount= 23
+
+
+
+hw16   46.224.3.241
+ 4 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  3 ms,  4 ms,  4 ms, trycount= 28
+
+
+
+hw17   46.224.3.130
+ 3 ms,  3 ms,  4 ms,  3 ms,  5 ms,  4 ms,  2 ms,  5 ms,  3 ms,  3 ms, trycount= 27
+
+
+
+hw18   46.224.3.131
+ 4 ms,  7 ms,  5 ms,  5 ms,  4 ms,  5 ms,  5 ms,  6 ms,  5 ms,  4 ms, trycount= 33
+
+
+
+hw19   46.224.3.132
+ 10 ms,  6 ms,  5 ms,  4 ms,  9 ms,  5 ms,  6 ms,  6 ms,  5 ms,  6 ms, trycount= 26
+
+
+
+hw20   46.224.3.133
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  10 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  3 ms,  4 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  23 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 3 ms,  1 ms,  2 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 4 ms,  2 ms,  3 ms,  5 ms,  4 ms,  2 ms,  3 ms,  4 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  13 ms,  9 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  9 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 4 ms,  3 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  3 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+Sun Dec 10 21:21:27 2017
+hw1   46.224.3.138
+ 5 ms,  3 ms,  3 ms,  4 ms,  10 ms,  4 ms,  3 ms,  3 ms,  4 ms,  4 ms, trycount= 32
+
+
+
+hw2   46.224.3.139
+ 2 ms,  6 ms,  8 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw3   46.224.3.140
+ 4 ms,  3 ms,  4 ms,  5 ms,  3 ms,  4 ms,  4 ms,  3 ms,  4 ms,  3 ms, trycount= 26
+
+
+
+hw4   46.224.3.141
+ 8 ms,  6 ms,  4 ms,  4 ms,  7 ms,  4 ms,  3 ms,  4 ms,  10 ms,  4 ms, trycount= 26
+
+
+
+hw5   46.224.3.142
+ 6 ms,  5 ms,  212 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms,  5 ms, trycount= 31
+
+
+
+hw6   46.224.3.143
+ 6 ms,  4 ms,  3 ms,  4 ms,  4 ms,  4 ms,  3 ms,  4 ms,  4 ms,  4 ms, trycount= 28
+
+
+
+hw7   46.224.3.146
+ 6 ms,  5 ms,  6 ms,  5 ms,  6 ms,  5 ms,  7 ms,  5 ms,  5 ms,  19 ms, trycount= 30
+
+
+
+hw8   185.147.176.32
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  6 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  5 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw14   46.224.3.238
+ 4 ms,  5 ms,  4 ms,  4 ms,  4 ms,  4 ms,  208 ms,  4 ms,  3 ms,  4 ms, trycount= 27
+
+
+
+hw15   46.224.3.239
+ 8 ms,  5 ms,  6 ms,  5 ms,  6 ms,  5 ms,  213 ms,  6 ms,  6 ms,  6 ms, trycount= 27
+
+
+
+hw16   46.224.3.241
+ 4 ms,  5 ms,  4 ms,  3 ms,  3 ms,  4 ms,  4 ms,  4 ms,  3 ms,  4 ms, trycount= 31
+
+
+
+hw17   46.224.3.130
+ 4 ms,  8 ms,  4 ms,  4 ms,  6 ms,  4 ms,  4 ms,  4 ms,  3 ms,  4 ms, trycount= 26
+
+
+
+hw18   46.224.3.131
+ 5 ms,  212 ms,  5 ms,  5 ms,  5 ms,  5 ms,  6 ms,  9 ms,  6 ms,  6 ms, trycount= 29
+
+
+
+hw19   46.224.3.132
+ 210 ms,  6 ms,  5 ms,  5 ms,  6 ms,  6 ms,  6 ms,  6 ms,  5 ms,  5 ms, trycount= 28
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 35
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  1 ms,  1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 5 ms,  11 ms,  2 ms,  2 ms,  3 ms,  9 ms,  2 ms,  4 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 14 ms,  1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  4 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  2 ms,  2 ms,  10 ms,  7 ms,  39 ms,  4 ms,  2 ms,  3 ms,  4 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  7 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 5 ms,  5 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  35 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 7 ms,  4 ms,  3 ms,  2 ms,  2 ms,  2 ms,  12 ms,  4 ms,  2 ms,  4 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+Sun Dec 10 22:19:35 2017
+hw1   46.224.3.138
+ 4 ms,  4 ms,  3 ms,  3 ms,  210 ms,  4 ms,  3 ms,  4 ms,  4 ms,  3 ms, trycount= 24
+
+
+
+hw2   46.224.3.139
+ 7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw3   46.224.3.140
+ 4 ms,  4 ms,  4 ms,  3 ms,  3 ms,  3 ms,  4 ms,  3 ms,  4 ms,  4 ms, trycount= 36
+
+
+
+hw4   46.224.3.141
+ 4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms, trycount= 24
+
+
+
+hw5   46.224.3.142
+ 6 ms,  19 ms,  6 ms,  6 ms,  6 ms,  6 ms,  7 ms,  6 ms,  6 ms,  5 ms, trycount= 22
+
+
+
+hw6   46.224.3.143
+ 11 ms,  6 ms,  3 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  15 ms,  4 ms, trycount= 27
+
+
+
+hw7   46.224.3.146
+ 6 ms,  5 ms,  6 ms,  5 ms,  6 ms,  6 ms,  5 ms,  5 ms,  6 ms,  5 ms, trycount= 21
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 3 ms,  1 ms,  203 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  5 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 4 ms,  3 ms,  11 ms,  4 ms,  4 ms,  4 ms,  4 ms,  4 ms,  3 ms,  3 ms, trycount= 31
+
+
+
+hw15   46.224.3.239
+ 6 ms,  5 ms,  211 ms,  5 ms,  5 ms,  5 ms,  6 ms,  5 ms,  5 ms,  6 ms, trycount= 22
+
+
+
+hw16   46.224.3.241
+ 4 ms,  3 ms,  4 ms,  207 ms,  4 ms,  4 ms,  5 ms,  4 ms,  4 ms,  3 ms, trycount= 27
+
+
+
+hw17   46.224.3.130
+ 3 ms,  3 ms,  3 ms,  4 ms,  4 ms,  7 ms,  4 ms,  3 ms,  4 ms,  3 ms, trycount= 21
+
+
+
+hw18   46.224.3.131
+ 4 ms,  5 ms,  5 ms,  5 ms,  4 ms,  5 ms,  5 ms,  5 ms,  8 ms,  6 ms, trycount= 20
+
+
+
+hw19   46.224.3.132
+ 5 ms,  5 ms,  7 ms,  7 ms,  6 ms,  6 ms,  6 ms,  5 ms,  5 ms,  5 ms, trycount= 23
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  9 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+as1   185.147.177.2
+ 13 ms,  1 ms,  1 ms,  8 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  7 ms,  2 ms,  2 ms,  4 ms,  5 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 2 ms,  1 ms,  1 ms,  14 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  1 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  8 ms,  1 ms,  1 ms,  1 ms,  1 ms,  7 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  3 ms,  1 ms,  1 ms,  2 ms,  2 ms,  8 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  12 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 4 ms,  1 ms,  2 ms,  2 ms,  14 ms,  3 ms,  8 ms,  2 ms,  13 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+Sun Dec 10 23:12:54 2017
+hw1   46.224.3.138
+ 4 ms,  3 ms,  10 ms,  3 ms,  3 ms,  3 ms,  3 ms,  4 ms,  1 ms,  2 ms, trycount= 25
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms, trycount= 34
+
+
+
+hw3   46.224.3.140
+ 2 ms,  4 ms,  2 ms,  4 ms,  4 ms,  5 ms,  10 ms,  3 ms,  3 ms,  3 ms, trycount= 38
+
+
+
+hw4   46.224.3.141
+ 3 ms,  2 ms,  3 ms,  3 ms,  4 ms,  2 ms,  2 ms,  3 ms,  3 ms,  4 ms, trycount= 43
+
+
+
+hw5   46.224.3.142
+ 5 ms,  2 ms,  6 ms,  5 ms,  4 ms,  4 ms,  4 ms,  13 ms,  5 ms,  4 ms, trycount= 28
+
+
+
+hw6   46.224.3.143
+ 5 ms,  3 ms,  2 ms,  3 ms,  3 ms,  2 ms,  4 ms,  3 ms,  2 ms,  2 ms, trycount= 22
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  5 ms,  4 ms,  1 ms,  3 ms,  2 ms,  2 ms,  4 ms,  2 ms, trycount= 26
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  10 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 35
+
+
+
+hw14   46.224.3.238
+ 2 ms,  3 ms,  2 ms,  3 ms,  4 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw15   46.224.3.239
+ 3 ms,  4 ms,  2 ms,  3 ms,  2 ms,  3 ms,  5 ms,  3 ms,  3 ms,  3 ms, trycount= 20
+
+
+
+hw16   46.224.3.241
+ 4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 32
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 24
+
+
+
+hw18   46.224.3.131
+ 2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw19   46.224.3.132
+ 2 ms,  2 ms,  3 ms,  5 ms,  2 ms,  3 ms,  2 ms,  3 ms,  3 ms,  3 ms, trycount= 28
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+as1   185.147.177.2
+ 3 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  5 ms,  2 ms,  7 ms,  1 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 6 ms,  4 ms,  6 ms,  4 ms,  5 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 4 ms,  2 ms,  11 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 5 ms,  6 ms,  2 ms,  5 ms,  3 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 6 ms,  2 ms,  6 ms,  3 ms,  2 ms,  3 ms,  4 ms,  5 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 3 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 00:11:47 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  3 ms, trycount= 34
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms, trycount= 23
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  5 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  6 ms,  3 ms, trycount= 29
+
+
+
+hw5   46.224.3.142
+ 2 ms,  3 ms,  4 ms,  1 ms,  3 ms,  1 ms,  2 ms,  3 ms,  2 ms,  3 ms, trycount= 35
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms, trycount= 37
+
+
+
+hw7   46.224.3.146
+ 2 ms,  15 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  6 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 25
+
+
+
+hw14   46.224.3.238
+ 3 ms,  2 ms,  3 ms,  2 ms,  3 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 37
+
+
+
+hw15   46.224.3.239
+ 6 ms,  2 ms,  2 ms,  1 ms,  1 ms,  11 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw17   46.224.3.130
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw19   46.224.3.132
+ 8 ms,  1 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms, trycount= 25
+
+
+
+hw20   46.224.3.133
+ 5 ms,  2 ms,  9 ms,  2 ms,  3 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  1 ms,  6 ms,  4 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 4 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  10 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  10 ms,  1 ms,  1 ms,  8 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 3 ms,  2 ms,  1 ms,  1 ms,  1 ms,  6 ms,  2 ms,  2 ms,  5 ms,  2 ms, trycount= 10
+
+
+
+Mon Dec 11 01:10:13 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 34
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  4 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 39
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  15 ms,  7 ms,  2 ms,  7 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  7 ms,  11 ms,  2 ms,  5 ms, trycount= 34
+
+
+
+hw5   46.224.3.142
+ 2 ms,  10 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 40
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  3 ms,  1 ms,  2 ms,  8 ms,  1 ms, trycount= 24
+
+
+
+hw7   46.224.3.146
+ 2 ms,  1 ms,  5 ms,  1 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 25
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 29
+
+
+
+hw15   46.224.3.239
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 21
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 21
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 34
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 31
+
+
+
+hw19   46.224.3.132
+ 6 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw20   46.224.3.133
+ 2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  4 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  13 ms,  1 ms,  2 ms,  6 ms,  4 ms,  5 ms,  5 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 4 ms,  5 ms,  3 ms,  2 ms,  3 ms,  2 ms,  2 ms,  5 ms,  6 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  12 ms,  2 ms,  7 ms,  2 ms,  3 ms,  11 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 9 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 5 ms,  2 ms,  4 ms,  5 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 02:09:18 2017
+hw1   46.224.3.138
+ 1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 34
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw4   46.224.3.141
+ 1 ms,  2 ms,  9 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw5   46.224.3.142
+ 1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms, trycount= 33
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 24
+
+
+
+hw7   46.224.3.146
+ 1 ms,  2 ms,  1 ms,  13 ms,  4 ms,  1 ms,  1 ms,  1 ms,  7 ms,  2 ms, trycount= 27
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  4 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 34
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw15   46.224.3.239
+ 2 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw16   46.224.3.241
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw17   46.224.3.130
+ 1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 41
+
+
+
+hw18   46.224.3.131
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 38
+
+
+
+hw19   46.224.3.132
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 26
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 42
+
+
+
+as1   185.147.177.2
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 4 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  4 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  2 ms,  1 ms,  8 ms,  4 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 2 ms,  1 ms,  2 ms,  1 ms,  6 ms,  1 ms,  12 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+Mon Dec 11 03:10:23 2017
+hw1   46.224.3.138
+ 3 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  4 ms, trycount= 26
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  7 ms,  2 ms,  2 ms, trycount= 38
+
+
+
+hw3   46.224.3.140
+ 4 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  7 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 24
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  9 ms,  1 ms,  2 ms,  3 ms,  2 ms, trycount= 26
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  7 ms,  1 ms,  2 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 34
+
+
+
+hw7   46.224.3.146
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 37
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  3 ms,  7 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw14   46.224.3.238
+ 2 ms,  7 ms,  4 ms,  6 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw15   46.224.3.239
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms,  2 ms,  1 ms,  2 ms, trycount= 33
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw18   46.224.3.131
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw19   46.224.3.132
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 26
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  6 ms,  2 ms,  2 ms,  14 ms,  2 ms, trycount= 34
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 5 ms,  2 ms,  2 ms,  2 ms,  13 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  5 ms,  3 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  1 ms,  1 ms,  1 ms,  2 ms,  3 ms,  2 ms,  5 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  4 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 6 ms,  2 ms,  2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 04:10:09 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw2   46.224.3.139
+ 8 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 32
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  2 ms,  7 ms,  3 ms,  4 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 30
+
+
+
+hw5   46.224.3.142
+ 2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  8 ms, trycount= 28
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 36
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  7 ms,  3 ms,  1 ms,  1 ms,  2 ms, trycount= 30
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 26
+
+
+
+hw14   46.224.3.238
+ 4 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw15   46.224.3.239
+ 2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 34
+
+
+
+hw17   46.224.3.130
+ 2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw18   46.224.3.131
+ 2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  3 ms,  2 ms, trycount= 25
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 24
+
+
+
+hw20   46.224.3.133
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 32
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  4 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  1 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  8 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 4 ms,  1 ms,  7 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 4 ms,  1 ms,  2 ms,  3 ms,  2 ms,  4 ms,  2 ms,  1 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  2 ms,  5 ms,  3 ms,  2 ms,  1 ms,  6 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 05:08:31 2017
+hw1   46.224.3.138
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 20
+
+
+
+hw2   46.224.3.139
+ 7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw3   46.224.3.140
+ 2 ms,  4 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw4   46.224.3.141
+ 2 ms,  1 ms,  3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 24
+
+
+
+hw5   46.224.3.142
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  12 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  4 ms,  1 ms, trycount= 27
+
+
+
+hw7   46.224.3.146
+ 2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 24
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw14   46.224.3.238
+ 2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  4 ms,  1 ms, trycount= 23
+
+
+
+hw15   46.224.3.239
+ 6 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 42
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 23
+
+
+
+hw17   46.224.3.130
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 29
+
+
+
+hw18   46.224.3.131
+ 1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 32
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 25
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  5 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  1 ms,  2 ms,  3 ms,  1 ms,  2 ms,  2 ms,  10 ms,  13 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  8 ms,  1 ms,  2 ms,  2 ms,  9 ms,  2 ms,  2 ms,  9 ms,  9 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  1 ms,  10 ms,  16 ms,  9 ms,  9 ms,  1 ms,  2 ms,  8 ms,  9 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 06:05:05 2017
+hw1   46.224.3.138
+ 2 ms,  2 ms,  2 ms,  1 ms,  15 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 32
+
+
+
+hw2   46.224.3.139
+ 2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  9 ms, trycount= 33
+
+
+
+hw3   46.224.3.140
+ 2 ms,  7 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 36
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  2 ms,  1 ms,  4 ms,  3 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 30
+
+
+
+hw6   46.224.3.143
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 27
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  2 ms,  10 ms,  1 ms,  2 ms,  2 ms,  11 ms,  1 ms,  1 ms, trycount= 26
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  3 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  3 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 2 ms,  2 ms,  2 ms,  6 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 38
+
+
+
+hw15   46.224.3.239
+ 1 ms,  1 ms,  16 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 29
+
+
+
+hw16   46.224.3.241
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 33
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  6 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms, trycount= 30
+
+
+
+hw18   46.224.3.131
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 38
+
+
+
+hw19   46.224.3.132
+ 1 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 28
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 25
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  3 ms,  3 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 2 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  1 ms,  2 ms,  3 ms,  1 ms,  13 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 07:06:09 2017
+hw1   46.224.3.138
+ 1 ms,  2 ms,  7 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw2   46.224.3.139
+ 4 ms,  3 ms,  2 ms,  2 ms,  1 ms,  1 ms,  7 ms,  1 ms,  2 ms,  11 ms, trycount= 28
+
+
+
+hw3   46.224.3.140
+ 2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 37
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw5   46.224.3.142
+ 1 ms,  2 ms,  2 ms,  1 ms,  6 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms, trycount= 23
+
+
+
+hw6   46.224.3.143
+ 9 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms, trycount= 30
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 38
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  1 ms,  1 ms,  13 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 32
+
+
+
+hw14   46.224.3.238
+ 1 ms,  1 ms,  2 ms,  1 ms,  3 ms,  6 ms,  2 ms,  1 ms,  2 ms,  1 ms, trycount= 29
+
+
+
+hw15   46.224.3.239
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 37
+
+
+
+hw16   46.224.3.241
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 32
+
+
+
+hw17   46.224.3.130
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw18   46.224.3.131
+ 2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 26
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 42
+
+
+
+hw20   46.224.3.133
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  6 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 33
+
+
+
+as1   185.147.177.2
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 2 ms,  5 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  15 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 5 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 3 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 08:08:49 2017
+hw1   46.224.3.138
+ 1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  7 ms,  2 ms,  7 ms,  1 ms,  1 ms, trycount= 28
+
+
+
+hw2   46.224.3.139
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  2 ms,  7 ms, trycount= 30
+
+
+
+hw3   46.224.3.140
+ 1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 24
+
+
+
+hw4   46.224.3.141
+ 2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 32
+
+
+
+hw5   46.224.3.142
+ 1 ms,  2 ms,  1 ms,  1 ms,  8 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms, trycount= 38
+
+
+
+hw6   46.224.3.143
+ 4 ms,  3 ms,  2 ms,  4 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms, trycount= 31
+
+
+
+hw7   46.224.3.146
+ 3 ms,  1 ms,  4 ms,  9 ms,  2 ms,  1 ms,  8 ms,  2 ms,  2 ms,  9 ms, trycount= 34
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  2 ms,  2 ms,  2 ms,  7 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 33
+
+
+
+hw14   46.224.3.238
+ 2 ms,  1 ms,  1 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 28
+
+
+
+hw15   46.224.3.239
+ 1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 33
+
+
+
+hw16   46.224.3.241
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 40
+
+
+
+hw17   46.224.3.130
+ 2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 30
+
+
+
+hw18   46.224.3.131
+ 1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 27
+
+
+
+hw19   46.224.3.132
+ 3 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 30
+
+
+
+hw20   46.224.3.133
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  11 ms,  2 ms, trycount= 37
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  12 ms,  2 ms,  1 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 3 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 69 ms,  58 ms,  33 ms,  24 ms,  54 ms,  35 ms,  51 ms,  41 ms,  32 ms,  28 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  3 ms,  3 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 2 ms,  5 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  13 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 14 ms,  8 ms,  8 ms,  8 ms,  10 ms,  2 ms,  1 ms,  2 ms,  13 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 40 ms,  38 ms,  64 ms,  39 ms,  18 ms,  24 ms,  12 ms,  15 ms,  10 ms,  15 ms, trycount= 10
+
+
+
+Mon Dec 11 09:11:25 2017
+hw1   46.224.3.138
+ 1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  2 ms,  1 ms,  2 ms,  1 ms,  2 ms, trycount= 30
+
+
+
+hw2   46.224.3.139
+ 1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  4 ms,  1 ms, trycount= 40
+
+
+
+hw3   46.224.3.140
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 29
+
+
+
+hw4   46.224.3.141
+ 5 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms,  1 ms, trycount= 26
+
+
+
+hw5   46.224.3.142
+ 2 ms,  2 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  6 ms,  2 ms,  1 ms, trycount= 31
+
+
+
+hw6   46.224.3.143
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 24
+
+
+
+hw7   46.224.3.146
+ 2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  1 ms,  3 ms,  1 ms,  1 ms,  4 ms, trycount= 22
+
+
+
+hw8   185.147.176.32
+ 1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  4 ms,  5 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 13 ms,  1 ms,  2 ms,  1 ms,  1 ms,  3 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 28
+
+
+
+hw14   46.224.3.238
+ 10 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  1 ms,  6 ms,  6 ms, trycount= 29
+
+
+
+hw15   46.224.3.239
+ 1 ms,  9 ms,  6 ms,  2 ms,  2 ms,  6 ms,  1 ms,  1 ms,  3 ms,  2 ms, trycount= 35
+
+
+
+hw16   46.224.3.241
+ 1 ms,  2 ms,  2 ms,  3 ms,  2 ms,  1 ms,  2 ms,  1 ms,  3 ms,  2 ms, trycount= 23
+
+
+
+hw17   46.224.3.130
+ 1 ms,  1 ms,  11 ms,  1 ms,  2 ms,  5 ms,  2 ms,  2 ms,  1 ms,  12 ms, trycount= 26
+
+
+
+hw18   46.224.3.131
+ 2 ms,  1 ms,  2 ms,  1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  1 ms, trycount= 47
+
+
+
+hw19   46.224.3.132
+ 1 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  1 ms,  3 ms, trycount= 26
+
+
+
+hw20   46.224.3.133
+ 1 ms,  6 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 30
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  3 ms,  3 ms,  3 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 3 ms,  2 ms,  3 ms,  3 ms,  2 ms,  2 ms,  3 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 2 ms,  2 ms,  2 ms,  1 ms,  1 ms,  2 ms,  3 ms,  2 ms,  2 ms,  3 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 5 ms,  6 ms,  7 ms,  15 ms,  15 ms,  22 ms,  22 ms,  14 ms,  12 ms,  15 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 3 ms,  2 ms,  2 ms,  1 ms,  2 ms,  5 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 3 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  3 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 2 ms,  2 ms,  2 ms,  4 ms,  2 ms,  2 ms,  3 ms,  2 ms,  8 ms,  2 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 18 ms,  19 ms,  19 ms,  18 ms,  21 ms,  19 ms,  19 ms,  15 ms,  13 ms,  13 ms, trycount= 10
+
+
+
+Mon Dec 11 10:11:06 2017
+hw1   46.224.3.138
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw2   46.224.3.139
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw3   46.224.3.140
+ 1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+hw4   46.224.3.141
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw5   46.224.3.142
+ 0 ms,  0 ms,  5 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+hw6   46.224.3.143
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  4 ms,  1 ms, trycount= 11
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  0 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  0 ms,  0 ms,  6 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  0 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  6 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw14   46.224.3.238
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw15   46.224.3.239
+ 2 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw16   46.224.3.241
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 11
+
+
+
+hw17   46.224.3.130
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw18   46.224.3.131
+ 2 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw19   46.224.3.132
+ 0 ms,  0 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw20   46.224.3.133
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 13
+
+
+
+as1   185.147.177.2
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 1 ms,  1 ms,  2 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 1 ms,  2 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  6 ms,  1 ms,  4 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  3 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  0 ms,  0 ms,  0 ms,  1 ms, trycount= 12
+
+
+
+Mon Dec 11 11:06:59 2017
+hw1   46.224.3.138
+ 0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw2   46.224.3.139
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw3   46.224.3.140
+ 7 ms,  1 ms,  1 ms,  1 ms,  15 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw4   46.224.3.141
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  0 ms,  2 ms, trycount= 10
+
+
+
+hw5   46.224.3.142
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw6   46.224.3.143
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw7   46.224.3.146
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  4 ms,  1 ms,  2 ms,  0 ms, trycount= 10
+
+
+
+hw14   46.224.3.238
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  0 ms,  1 ms,  78 ms, trycount= 10
+
+
+
+hw15   46.224.3.239
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 12
+
+
+
+hw16   46.224.3.241
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw17   46.224.3.130
+ 1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw18   46.224.3.131
+ 4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw19   46.224.3.132
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 12
+
+
+
+hw20   46.224.3.133
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms, trycount= 10
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  0 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  2 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 1 ms,  1 ms,  1 ms,  2 ms,  0 ms,  2 ms,  6 ms,  1 ms,  1 ms,  8 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 0 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  0 ms,  1 ms,  1 ms,  3 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 12:02:52 2017
+hw1   46.224.3.138
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+hw2   46.224.3.139
+ 1 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw3   46.224.3.140
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 12
+
+
+
+hw4   46.224.3.141
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw5   46.224.3.142
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw6   46.224.3.143
+ 0 ms,  1 ms,  2 ms,  1 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw7   46.224.3.146
+ 1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw8   185.147.176.32
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw10   185.147.176.34
+ 0 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 0 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw14   46.224.3.238
+ 1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  5 ms, trycount= 10
+
+
+
+hw15   46.224.3.239
+ 0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw16   46.224.3.241
+ 1 ms,  1 ms,  1 ms,  7 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw17   46.224.3.130
+ 1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw18   46.224.3.131
+ 0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw20   46.224.3.133
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+as1   185.147.177.2
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 1 ms,  1 ms,  2 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms,  2 ms, trycount= 11
+
+
+
+as4   185.147.177.5
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  2 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  14 ms,  1 ms,  5 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+as10   185.147.177.11
+ 1 ms,  0 ms,  1 ms,  2 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+as11   185.147.177.12
+ 1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+Mon Dec 11 12:58:45 2017
+hw1   46.224.3.138
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw2   46.224.3.139
+ 1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw3   46.224.3.140
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms, trycount= 10
+
+
+
+hw4   46.224.3.141
+ 2 ms,  1 ms,  0 ms,  2 ms,  1 ms,  0 ms,  0 ms,  1 ms,  0 ms,  0 ms, trycount= 10
+
+
+
+hw5   46.224.3.142
+ 0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw6   46.224.3.143
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 12
+
+
+
+hw8   185.147.176.32
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  4 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 0 ms,  0 ms,  1 ms,  2 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  3 ms,  1 ms,  0 ms,  0 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+hw14   46.224.3.238
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  0 ms, trycount= 10
+
+
+
+hw15   46.224.3.239
+ 1 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  4 ms,  1 ms, trycount= 10
+
+
+
+hw16   46.224.3.241
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  3 ms,  0 ms, trycount= 10
+
+
+
+hw17   46.224.3.130
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms, trycount= 10
+
+
+
+hw18   46.224.3.131
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw19   46.224.3.132
+ 1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw20   46.224.3.133
+ 1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  2 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  3 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 1 ms,  1 ms,  1 ms,  2 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 0 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  4 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms, trycount= 10
+
+
+
+as7   185.147.177.8
+ 1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 1 ms,  0 ms,  2 ms,  3 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  0 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  5 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+Mon Dec 11 13:54:38 2017
+hw1   46.224.3.138
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw2   46.224.3.139
+ 1 ms,  1 ms,  1 ms,  1 ms,  7 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw3   46.224.3.140
+ 10 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw4   46.224.3.141
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw5   46.224.3.142
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw6   46.224.3.143
+ 1 ms,  3 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+hw7   46.224.3.146
+ 1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  2 ms,  1 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw8   185.147.176.32
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw9   185.147.176.33
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw10   185.147.176.34
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw11   185.147.176.35
+ 0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw12   185.147.176.36
+ 1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  2 ms, trycount= 10
+
+
+
+hw13   46.224.3.237
+ 59 ms,  3 ms,  1 ms,  0 ms,  0 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw14   46.224.3.238
+ 1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms, trycount= 10
+
+
+
+hw15   46.224.3.239
+ 1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 12
+
+
+
+hw16   46.224.3.241
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw17   46.224.3.130
+ 1 ms,  1 ms,  0 ms,  1 ms,  0 ms,  0 ms,  1 ms,  1 ms,  0 ms,  1 ms, trycount= 10
+
+
+
+hw18   46.224.3.131
+ 1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 11
+
+
+
+hw19   46.224.3.132
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+hw20   46.224.3.133
+ 0 ms,  3 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as1   185.147.177.2
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as2   185.147.177.3
+ 1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as3   185.147.177.4
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  2 ms,  2 ms,  0 ms, trycount= 10
+
+
+
+as4   185.147.177.5
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as5   185.147.177.6
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as6   185.147.177.7
+ 1 ms,  1 ms,  0 ms,  1 ms,  0 ms,  3 ms,  1 ms,  1 ms,  1 ms,  0 ms, trycount= 11
+
+
+
+as7   185.147.177.8
+ 1 ms,  0 ms,  1 ms,  0 ms,  4 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as8   185.147.177.9
+ 1 ms,  1 ms,  1 ms,  0 ms,  5 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as9   185.147.177.10
+ 1 ms,  2 ms,  1 ms,  2 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
+as10   185.147.177.11
+ 1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  0 ms,  1 ms,  1 ms,  0 ms, trycount= 10
+
+
+
+as11   185.147.177.12
+ 1 ms,  0 ms,  1 ms,  0 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms,  1 ms, trycount= 10
+
+
+
